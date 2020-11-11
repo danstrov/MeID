@@ -36,4 +36,4 @@ There are many applications, where positioning of a 3D models given X-ray images
 ## Keywords related to the invention
 Interactive visualization, 3D pose estimation, X-ray imaging
 
-![lalaalala](dorsiplantar.png)
+![sagittaler Schnitt durch einen Fuß](dorsiplantar.png)
